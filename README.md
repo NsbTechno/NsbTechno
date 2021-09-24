@@ -8,7 +8,7 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neeraj</h2>
 <center> -->
 </center>
-<center>
+
 ## <h1>  <span style='font-size:35px;'> Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm  Neeraj Bukane </span> <br> <span><h5> Enthusiastic Developer and Designer</h5></span> </h1>
 
 </center>
