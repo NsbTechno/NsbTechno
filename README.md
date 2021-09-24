@@ -1,7 +1,4 @@
-## ❤ Profile Views
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NsbTechno">
-</a>
+
 <center>
 <a href="#"><img  src="./Telecommuting-pana.svg" height="405px"/></a>
 <!-- </center>
@@ -10,12 +7,15 @@
 </center>
 <center>
 
-<h2 align="center" style='font-size:40px;'>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neeraj</h2>
-<h2 align="center">Enthusiastic Web Developer and Designer</h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neeraj Bukane</h1>
+<h3 align="center">Enthusiastic Web Developer and Designer</h3>
 
 </center>
 
-
+## ❤ Profile Views
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=NsbTechno">
+</a>
 
 ## <h2>🙋‍♂️About Me</h2>
 
