@@ -1,7 +1,7 @@
-<!-- ## ❤ Profile Views
+ ## ❤ Profile Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NsbTechno">
-</a> -->
+</a> 
 <center>
 <a href="#"><img  src="./Telecommuting-pana.svg" height="405px"/></a>
 <!-- </center>
