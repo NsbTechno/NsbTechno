@@ -1,13 +1,14 @@
- ## ❤ Profile Views
+## ❤ Profile Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NsbTechno">
-</a> 
+</a>
 <center>
 <a href="#"><img  src="./Telecommuting-pana.svg" height="405px"/></a>
 <!-- </center>
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neeraj</h2>
 <center> -->
-
+</center>
+<center>
 ## <h1>  <span style='font-size:35px;'> Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm  Neeraj Bukane </span> <br> <span><h5> Enthusiastic Developer and Designer</h5></span> </h1>
 
 </center>
