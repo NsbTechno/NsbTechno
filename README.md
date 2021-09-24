@@ -1,15 +1,11 @@
 
 <center>
 <a href="#"><img  src="./Telecommuting-pana.svg" height="405px"/></a>
-<!-- </center>
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neeraj</h2>
-<center> -->
 </center>
-<center>
 
+<center>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neeraj Bukane</h1>
 <h3 align="center">Enthusiastic Web Developer and Designer</h3>
-
 </center>
 
 ## ❤ Profile Views
