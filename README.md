@@ -1,6 +1,6 @@
 
 <center>
-<a href="#"><img  src="./Telecommuting-pana.svg" height="405px"/></a>
+<a href="#" align="center"><img  src="./Telecommuting-pana.svg" height="405px"/></a>
 </center>
 
 <center>
